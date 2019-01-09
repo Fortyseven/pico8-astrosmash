@@ -1,0 +1,11 @@
+sdl_controllers.txt
+log.txt
+config.txt
+*.hex
+*.png
+backup/
+bbs/
+carts/
+cdata/
+cstore/
+plates/
